@@ -1,1 +1,5 @@
-{"theme":"default"}
+{
+  "theme": "default",
+  "headerTitle": "🎓 校园网——柚",
+  "primaryColor": "#007aff"
+}
