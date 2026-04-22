@@ -122,5 +122,36 @@
         "success": false
       }
     ]
+  },
+  {
+    "user": "柚小屿",
+    "time": "2026/4/22 16:18:28",
+    "services": [
+      {
+        "name": "ipify (IPv4)",
+        "error": "Load failed",
+        "success": false
+      },
+      {
+        "name": "ipify64",
+        "ip": "2409:8934:3e10:1e14:8cc1:914b:ca2b:e313",
+        "success": true
+      },
+      {
+        "name": "ifconfig.me",
+        "ip": "2409:8934:3e10:1e14:8cc1:914b:ca2b:e313",
+        "success": true
+      },
+      {
+        "name": "icanhazip",
+        "ip": "2409:8934:3e10:1e14:8cc1:914b:ca2b:e313",
+        "success": true
+      },
+      {
+        "name": "myip.sb",
+        "error": "Load failed",
+        "success": false
+      }
+    ]
   }
 ]
