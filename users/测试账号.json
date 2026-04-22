@@ -1,1 +1,7 @@
-{"username":"测试账号","password":"fj","avatar":"https://api.dicebear.com/7.x/avataaars/svg?seed=0","bio":"","_originalPassword":"fj"}
+{
+  "username": "测试账号",
+  "password": "111",
+  "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=0",
+  "bio": "",
+  "_originalPassword": "fj"
+}
