@@ -184,5 +184,36 @@
         "success": false
       }
     ]
+  },
+  {
+    "user": "柚小屿",
+    "time": "2026/4/23 23:26:16",
+    "services": [
+      {
+        "name": "ipify (IPv4)",
+        "ip": "103.157.42.19",
+        "success": true
+      },
+      {
+        "name": "ipify64",
+        "error": "Fetch is aborted",
+        "success": false
+      },
+      {
+        "name": "ifconfig.me",
+        "ip": "103.157.42.19",
+        "success": true
+      },
+      {
+        "name": "icanhazip",
+        "error": "Fetch is aborted",
+        "success": false
+      },
+      {
+        "name": "myip.sb",
+        "error": "Load failed",
+        "success": false
+      }
+    ]
   }
 ]
