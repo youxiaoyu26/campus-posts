@@ -463,5 +463,36 @@
         "success": false
       }
     ]
+  },
+  {
+    "user": "柚小屿",
+    "time": "2026/7/20 01:34:37",
+    "services": [
+      {
+        "name": "ipify (IPv4)",
+        "error": "Load failed",
+        "success": false
+      },
+      {
+        "name": "ipify64",
+        "ip": "117.61.127.13",
+        "success": true
+      },
+      {
+        "name": "ifconfig.me",
+        "ip": "117.61.127.13",
+        "success": true
+      },
+      {
+        "name": "icanhazip",
+        "ip": "117.61.127.13",
+        "success": true
+      },
+      {
+        "name": "myip.sb",
+        "error": "Load failed",
+        "success": false
+      }
+    ]
   }
 ]
